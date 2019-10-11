@@ -51,7 +51,8 @@ soal opsional, tapi selesaikan semua soal di atas terlebih dahulu
 ![](/img/3.png)
 
 ## Screenshot hasil
-masukkan screenshot output disini
+![Screenshot (29)](https://user-images.githubusercontent.com/49513927/66623202-cd565900-ec14-11e9-8b5b-321d440467fa.png)
+![Screenshot (28)](https://user-images.githubusercontent.com/49513927/66623213-d7785780-ec14-11e9-981b-bedcb484c55a.png)
 
 ## Upload
 upload seluruh folder project java-nya ke repository ini
